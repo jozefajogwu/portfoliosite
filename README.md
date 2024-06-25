@@ -1,16 +1,17 @@
 # Data Analyst
 
-#### Technical Skills: Python, SQL, PowerBI, Excel, SPSS,
+#### Technical Skills: Python, SQL, PowerBI, Excel, SPSS, Tableau
 
 ## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+	 			        		
+- B.S., Biochemistry | The University of Jos  (_May 2015_)
 
 ## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+**Data Scientist Instructor @ 3MTT NITDA  (_January 2024 - Present_)**
+- Collaborated with Aplus Computer technologies, focusing on empowering young Africans with problem-solving skills essential for innovative startups addressing real-life challenges. 
+-Proficiently diagnosed and resolved minor technical issues using Python, showcasing troubleshooting abilities. Utilized advanced visualization and analytics tools to process datasets effectively, enhancing data-driven decision-making capabilities. 
+
+
 
 **Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
 - Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
