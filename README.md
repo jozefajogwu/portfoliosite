@@ -18,10 +18,10 @@
 - Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
 
 ## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+### **Impact of Used Engine Oil and Other Pollutants from Mechanic Workshops on the Physical Environment of Jos, Plateau State**
+[Publication](https://jozefajogwu.medium.com/impact-of-used-engine-oil-and-other-pollutants-from-mechanic-workshops-on-the-physical-environment-149c4529dd63)
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+Examines automobile shops, including their geological and soil contexts, and their methods for disposing of used engine oil and other wastes such as plastics and nylon. I reviewedinformation on the environmental impacts of used motor oil, analyzing its effects on soil and aquatic organismsy.
 
 ![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 
