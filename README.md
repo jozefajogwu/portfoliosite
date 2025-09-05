@@ -19,12 +19,6 @@
 * Diagnosed and resolved technical issues using Python, demonstrating strong troubleshooting skills. Leveraged advanced visualization and analytics tools to process datasets, improving data-driven decision-making.
 
 
-
-
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
-
 ## Projects
 ### **Impact of Used Engine Oil and Other Pollutants from Mechanic Workshops on the Physical Environment of Jos, Plateau State**
 [Publication](https://jozefajogwu.medium.com/impact-of-used-engine-oil-and-other-pollutants-from-mechanic-workshops-on-the-physical-environment-149c4529dd63)
