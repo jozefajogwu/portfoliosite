@@ -4,7 +4,9 @@
 
 ## Education
 	 			        		
-- B.S., Biochemistry | The University of Jos  (_May 2015_)
+- M.S.C, Information Technology | MIVA University  (_May 2025_)
+
+- B.S., Biochemistry | The University of Jos  (_May 2010_ June 2015)
 
 ## Work Experience
 **Data Scientist Instructor @ 3MTT NITDA  (_January 2024 - Present_)**
