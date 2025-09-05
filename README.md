@@ -36,7 +36,12 @@ Why Canva & Flourish?
 Canva is ideal for creating infographics that present data in a simple, effective way.
 [Publication](https://jozefajogwu.medium.com/total-sales-analysis-for-tech-haven-3139014b415b)
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
 
-![Bike Study](/assets/img/bike_study.jpeg)
+
+### ATTAINMENT GAP INSIGHT
+Key Highlights:
+This PowerBI Report explores attaiment gaps in undergraduate achievememts to support a university's widening participationa
+and inclusion agenda, it invetigates whether disparities exist based on ethnicity, disabilty, fee status, faculty and offer evidence based recommendations to enhance equity in outcomes across the  students population 
+[Publication](https://jozefajogwu.medium.com/dashboard-title-student-performance-overview-from-a-foreign-university-in-the-uk-0b216628e0c4)
+
 
